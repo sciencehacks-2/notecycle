@@ -1,0 +1,6 @@
+{
+  "name": "Notecycle",
+  "description": "A clean, modern marketplace for students to buy, sell, and recycle academic notes and study guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
